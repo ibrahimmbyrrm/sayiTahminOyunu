@@ -13,6 +13,8 @@
 		8066A04A294A341C0025231A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8066A048294A341C0025231A /* Main.storyboard */; };
 		8066A04C294A341D0025231A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 8066A04B294A341D0025231A /* Assets.xcassets */; };
 		8066A04F294A341D0025231A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 8066A04D294A341D0025231A /* LaunchScreen.storyboard */; };
+		8066A057294A34510025231A /* OyunViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8066A056294A34510025231A /* OyunViewController.swift */; };
+		8066A059294A345C0025231A /* BitisViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8066A058294A345C0025231A /* BitisViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +26,8 @@
 		8066A04B294A341D0025231A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		8066A04E294A341D0025231A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		8066A050294A341D0025231A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8066A056294A34510025231A /* OyunViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OyunViewController.swift; sourceTree = "<group>"; };
+		8066A058294A345C0025231A /* BitisViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BitisViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +63,8 @@
 				8066A042294A341C0025231A /* AppDelegate.swift */,
 				8066A044294A341C0025231A /* SceneDelegate.swift */,
 				8066A046294A341C0025231A /* ViewController.swift */,
+				8066A056294A34510025231A /* OyunViewController.swift */,
+				8066A058294A345C0025231A /* BitisViewController.swift */,
 				8066A048294A341C0025231A /* Main.storyboard */,
 				8066A04B294A341D0025231A /* Assets.xcassets */,
 				8066A04D294A341D0025231A /* LaunchScreen.storyboard */,
@@ -139,6 +145,8 @@
 			buildActionMask = 2147483647;
 			files = (
 				8066A047294A341C0025231A /* ViewController.swift in Sources */,
+				8066A059294A345C0025231A /* BitisViewController.swift in Sources */,
+				8066A057294A34510025231A /* OyunViewController.swift in Sources */,
 				8066A043294A341C0025231A /* AppDelegate.swift in Sources */,
 				8066A045294A341C0025231A /* SceneDelegate.swift in Sources */,
 			);
